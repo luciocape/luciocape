@@ -5,11 +5,11 @@
 **luciocape/luciocape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👨‍🎓 I’m an **Electronic Technician**
-- 🔭 I’m currently working on **SugarCoach** and **Lambda**  
+- 👨‍🎓 I’m a **FullStack Developer** and an **Electronic Technician**
+- 🔭 I’m currently working in a family proyect
 - 🌱 I’m currently studing **CS**
 
-- 💪Experienced in **Vue, SCSS, Bootstrap, JS, Python, C, and Web**
+- 💪Experienced in **Vue, React, SCSS, Bootstrap, Tailwind, Node, Python, C, and Web**
   
 - 👯 I’m looking to collaborate on **Web** proyects
   
