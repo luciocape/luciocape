@@ -6,7 +6,7 @@
 -->
 
 - 👨‍🎓 I’m a **FullStack Developer** and an **Electronic Technician**
-- 🔭 I’m currently working in a family proyect
+- 🔭 I’m currently working in freelance projectcs
 - 🌱 I’m currently studing **CS**
 
 - 💪Experienced in **Vue, React, SCSS, Bootstrap, Tailwind, Node, Python, C, and Web**
